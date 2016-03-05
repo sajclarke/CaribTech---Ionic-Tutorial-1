@@ -1,7 +1,8 @@
 # CaribTech---Ionic-Tutorial-1
 An Ionic walkthrough covering ionic templates and using firebase for authentication for user email/password
 
-HOW TO USE
+## HOW TO USE
+
 1. Install node & npm
 2. Install ionic cli (npm install -g cordova ionic)
 3. Download the contents of this github repo (ionic start [nameofyourApp] https://github.com/sajclarke/CaribTech---Ionic-Tutorial-1
